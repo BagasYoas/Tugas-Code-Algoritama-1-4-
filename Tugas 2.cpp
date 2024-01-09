@@ -6,6 +6,10 @@ C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS
 Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
+//Nama : Bagas Yoas Sibagariang
+//Nim : 20230801254
+//Matkul : Algoritma dan Pemograman (tugas 2)
+
 #include <iostream>
 
 using namespace std;
